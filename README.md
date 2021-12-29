@@ -1,1 +1,1 @@
-# SenecaToDo
+# SenecaToDo with Next JS
